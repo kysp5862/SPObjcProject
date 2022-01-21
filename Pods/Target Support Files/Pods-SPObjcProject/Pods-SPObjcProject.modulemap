@@ -1,0 +1,6 @@
+framework module Pods_SPObjcProject {
+  umbrella header "Pods-SPObjcProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
